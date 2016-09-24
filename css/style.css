@@ -1,0 +1,64 @@
+body{
+	background-color: gray;
+}
+#whitebox{
+	width: 400px;
+	height: 490px;
+	background-color: white;
+}
+#bluebox{
+	width: 240px;
+	height: 490px;
+	background-color: skyblue;
+	float: left;
+}
+#first{
+	width: 200px;
+	height: 60px;
+	background-color: RGB(238, 187, 153);
+	float: right;
+	margin-bottom: 60px;
+}
+#first_tab{
+	width: 30px;
+	height: 60px;
+	background-color: #ffe5b4;
+}
+#second{
+	width: 160px;
+	height: 160px;
+	background-color: #55aaff;
+	float: right;
+	margin-bottom: 30px;
+}
+#third{
+	width: 200px;
+	height: 60px;
+	background-color: green;
+	clear:right;
+	float: right;
+	margin-bottom: 30px;
+}
+#third_tab{
+	width: 20px;
+	height: 60px;
+	background-color: #ffe5d1;
+}
+#fourth{
+	width: 200px;
+	height: 60px;
+	background-color: RGB(238, 187, 153);
+	clear: right;
+	float: right;
+}
+#fourth_tab{
+	width: 30px;
+	height: 60px;
+	background-color: #ffe5b4;
+}
+#pinkbox{
+	width: 160px;
+	height: 340px;
+	background-color: pink;
+	float: right;
+}
